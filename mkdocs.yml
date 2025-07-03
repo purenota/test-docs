@@ -1,0 +1,10 @@
+theme:
+  name: material
+  palette: 
+    - scheme: light
+    primary: blue
+    - scheme: dark
+    primary: orange
+  features: 
+    - navigation.tabs
+    - search.hightlight
