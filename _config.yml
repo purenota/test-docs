@@ -1,0 +1,9 @@
+navigation:
+  - title: Главная
+    url: /
+  - title: О нас
+    url: /about/
+  - title: Блог
+    url: /blog/
+  - title: Контакты
+    url: /contact/
